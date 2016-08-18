@@ -1,0 +1,5 @@
+About challenge:
+	ssh ctf-12749@shell.icec.tf -p 22
+	Password: Ku83AMmE
+	/home/so_close on the shell.
+
